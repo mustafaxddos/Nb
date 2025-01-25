@@ -19,7 +19,7 @@ db = client['TEST']
 users_collection = db['VIP']
 redeem_codes_collection = db['redeem_codes0']
 
-TELEGRAM_BOT_TOKEN = '7718655847:AAGf4kBc5UUL80Nhxbq03f3S9Bj3STHR8y0'
+TELEGRAM_BOT_TOKEN = '7877132178:AAEchtKKCr8UXkZjM7J_DW1xMx8coYf_3z8'
 ADMIN_USER_ID = 6103581760  
 
 cooldown_dict = {}
@@ -423,24 +423,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-in()
-nning.")
-
-if __name__ == '__main__':
-    main()
-in()
- logger.info("Bot is running.")
-
-if __name__ == '__main__':
-    main()
-in()
-
-    application.run_polling()
-    logger.info("Bot is running.")
-
-if __name__ == '__main__':
-    main()
-in()
-__':
-    main()
-in()
